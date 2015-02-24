@@ -12,7 +12,8 @@ Clone repository and open the index.html file.
 ```
 None known
 ```
-### Author:
+### Authors:
 Alex Kaufman
+Jake Kaad
 #### License
 MIT
